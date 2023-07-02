@@ -1,0 +1,7 @@
+1. Purpose
+2. Scope
+3. Assumptions
+4. Variant Uses
+5. Priority level
+6. Status
+7. Who? When?
